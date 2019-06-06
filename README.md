@@ -1,2 +1,6 @@
 # C++ SampleCode
-This repo hosts all my sample code from C++ projects
+This is my sample code taken from various C++ projects i've worked on.
+
+To understand whats going on read the comments. A majority of the code comes from Unreal C++ as thats what I've worked the most on.
+
+
